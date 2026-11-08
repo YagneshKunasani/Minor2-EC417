@@ -1,3 +1,7 @@
+# To access the GitHub repo
+# git clone [https://github.com/YagneshKunasani/Minor2-EC417.git](https://github.com/YagneshKunasani/Minor2-EC417.git)
+# cd Minor2-EC417
+
 import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split
