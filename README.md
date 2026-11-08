@@ -3,7 +3,7 @@
 ## Project Overview
 This project aims to predict which customers will leave a telecommunications service (churn). It is built for a retention team, prioritizing actionable metrics over standard accuracy. 
 
-The models are evaluated using a fair comparison pipeline on three specific metrics: ROC-AUC, PR-AUC, and **recall in the top 10% of scores**[cite: 1, 2]. The top 10% recall represents the realistic volume of customers a management and retention team can actually contact.
+The models are evaluated using a fair comparison pipeline on three specific metrics: ROC-AUC, PR-AUC, and **recall in the top 10% of scores**. The top 10% recall represents the realistic volume of customers a management and retention team can actually contact.
 
 ## Dataset
 * **Source:** IBM Telco Customer Churn (via Kaggle).
