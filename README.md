@@ -11,9 +11,8 @@ The models are evaluated using a fair comparison pipeline on three specific metr
 * **Target:** Approximately 26.5% of the customers in the dataset churned.
 
 ## Repository Structure
-* `download.py`: Script to programmatically download the dataset via the Kaggle API.
-* `main.py`: The core pipeline containing data cleaning, the leak-free train/test split, model training, evaluation, and SHAP value generation[cite: 1, 2].
-* `telecom_churn_report.pdf`: The final project report and one-page model card detailing intended use, metrics, limitations, and specific customer profiles.
+* `main.py`: The core pipeline containing data cleaning, the leak-free train/test split, model training, evaluation, and SHAP value generation. Includes the download script as well.
+* `Minor 2 Project Report.pdf`: The final project report and one-page model card detailing intended use, metrics, limitations, and specific customer profiles.
 * `.gitignore`: Ensures raw data, virtual environments, and binary archives are not tracked.
 
 ## Setup and Installation
